@@ -1,0 +1,6 @@
+echo "# mysql-innodb-backup-with-Percona-XtraBackup" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/bennzhang/mysql-innodb-backup-with-Percona-XtraBackup.git
+git push -u origin master
